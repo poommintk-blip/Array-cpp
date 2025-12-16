@@ -23,7 +23,7 @@ int main() {
 
     cout << "\nOdd = ";
     for(i=0; i<=k-1; i++)
-        cout << odd[i] << " ":
+        cout << odd[i] << " ";
     
     return 0;
 
