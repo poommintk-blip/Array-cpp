@@ -14,7 +14,7 @@ int main() {
         cin >> num[i];
 
     for(i=0; i<=n-1; i++) {
-        cout << num[i] << endl; 
+        //cout << num[i] << endl; 
         avg += num[i];
 
         if(num[i] > max) max = num[i];
