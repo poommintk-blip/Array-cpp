@@ -23,4 +23,6 @@ int main() {
         cout << sumcolumns[j] << " ";
     }
 
+    return 0;
+
 }
